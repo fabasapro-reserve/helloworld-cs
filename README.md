@@ -13,17 +13,17 @@ Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura *
 
 ### 🖥️ Pré-requisitos
 
-- IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
-- Estrutura [SDK .NET 10.0](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
+* IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
+* Estrutura [SDK .NET 10.0](https://dotnet.microsoft.com/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
 
 ### 🧭 1. Abrindo o Visual Studio (Splash Screen)
 
-<p align="center"><img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/splashscreen.png" alt="splashscreen" width="340" height="210" /></p>
+[![Splash Screen](./splashscreen.png)](./splashscreen.png)
 
-* Ao abrir o [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community), aparece a [Splash Screen](https://learn.microsoft.com/en-us/samples/microsoft/windows-universal-samples/splashscreen) (tela de carregamento).
-* Ela carrega componentes da IDE em segundo plano antes da interface principal aparecer.
+* Ao abrir o [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/community), aparece a [Splash Screen](./splashscreen.png) (tela de carregamento).
+* Ela carrega componentes da [IDE](https://visualstudio.microsoft.com/s/community) em segundo plano antes da interface principal aparecer.
 
-## 🏠 2. Tela inicial (Comece agora!)
+### 🏠 2. Tela inicial (Comece agora!)
 
 <p align="center">
     <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/visualstudio.png" alt="visualstudio" width="445" height="288">
