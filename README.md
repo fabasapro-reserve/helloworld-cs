@@ -99,3 +99,15 @@ namespace HelloWorld
 ```
 👉 Esse código escreve texto na **saída**.
 
+* Para rodar:
+    * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
+    * 🎉 Pronto! Seu primeiro programa em C# (C-Sharp) está funcionando
+
+# 🚀 Conclusão
+
+* Você aprendeu:
+    * ✔ **Abrir o Visual Studio**
+    * ✔ **Criar projeto C#**
+    * ✔ **Entender estrutura**
+    * ✔ **Escrever código**
+    * ✔ **Executar programa**
