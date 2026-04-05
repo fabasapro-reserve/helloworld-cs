@@ -1,19 +1,15 @@
 ## 📖 Sobre o projeto
 
-<p align="center">
-    <picture>
-        <img src="./helloworld-banner.png" alt="helloworld-banner.png" />
-     </picture>
-</p>
+<p align="center"><img src="./helloworld-banner.png" alt="helloworld-banner.png" /></p>
+    
+[![License: MIT](https://img.shields.io/github/license/microsoft/semantic-kernel)](./LICENSE)
+[![Languag](https://img.shields.io/badge/language-CS.NET-512BD4)](https://pypi.org/project/semantic-kernel)
+[![Structure](https://img.shields.io/badge/structure-.NET%2010.0-blueviolet)](https://pypi.org/project/semantic-kernel)
+[![Structure](https://img.shields.io/badge/Platform-Windows-0078D6)](https://pypi.org/project/semantic-kernel)
 
-Este projeto foi criado para demonstrar a estrutura básica de um aplicativo **Windows Forms** em **C#**, incluindo boas práticas de cabeçalho e uso de **Debug.WriteLine()**.
+Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura **.NET 10.0**. Olá, mundo! 🚀
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
-    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
-</p>
+---
 
 ## 🖥️ Pré-requisitos
 
@@ -144,6 +140,8 @@ namespace HelloWorld
     * ✔ **Entender estrutura**
     * ✔ **Escrever código**
     * ✔ **Executar programa**
+
+---
 
 ## 👨‍💻 Autor
 
