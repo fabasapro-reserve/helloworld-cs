@@ -33,12 +33,13 @@ Quando carregar, você verá:
 
 Na tela de templates:
 
-No filtro superior:
-Language: C#
-Platform: Windows
-Escolha: Área de Trabalho
-Console App (.NET)
+* No filtro superior:
+    * Language: **C# (C Sharp)**
+    * Platform: **Windows**
+    * Escolha: **Área de Trabalho**
+ 
+Aplicativo do Windows Forms - Um modelo de projeto para criar um aplicativo WinForms (Windows Forms) do .NET
 
-👉 Clique em Next
+👉 Clique em **Next**
 
 💡 Esse template já cria a estrutura básica do programa automaticamente
