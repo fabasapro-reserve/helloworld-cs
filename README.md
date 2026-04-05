@@ -1,6 +1,17 @@
 # 💻 Hello World
 A seguir está um passo a passo completo, visual e didático desde a Splash Screen do Visual Studio até rodar um Hello World em C#. Vou usar o fluxo padrão da IDE (Visual Studio 2026 Community é praticamente igual ao 2015, 2017, 2019 e 2022).
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
+</p>
+
+# 🖥️ Pré-requisitos
+
+- IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
+- Estrutura [SDK .NET 10.0 (Suporte de Longo Prazo)](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
+
 # 🧭 1. Abrindo o Visual Studio (Splash Screen)
 
 <p align="center">
