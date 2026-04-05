@@ -1,12 +1,12 @@
 ## 📖 Sobre o projeto
 
+Este projeto foi criado para demonstrar a estrutura básica de um aplicativo **Windows Forms** em **C#**, incluindo boas práticas de cabeçalho e uso de **Debug.WriteLine()**.
+
 <p align="center">
     <p align="center">
         <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/helloworld-banner.png" alt="helloworld-banner" width="750" height="450">
     </p>
 </p>
-
-Este projeto foi criado para demonstrar a estrutura básica de um aplicativo Windows Forms em C#, incluindo boas práticas de cabeçalho e uso de Debug.WriteLine().
 
 <p align="center">
     <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
