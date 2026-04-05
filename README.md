@@ -151,4 +151,4 @@ namespace HelloWorld
 
 ## 📄 Licença
 
-* Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](https://visualstudio.microsoft.com/pt-br/vs/community) para mais detalhes.
+* Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](https://github.com/fabasapro-reserve/helloworld-cs/tree/main?tab=MIT-1-ov-file) para mais detalhes.
