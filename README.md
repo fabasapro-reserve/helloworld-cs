@@ -1,5 +1,3 @@
-## HELLO WORLD EM C# 2026
-
 <p align="center">
     <p align="center">
         <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/helloworld-banner.png" alt="helloworld-banner" width="750" height="450">
