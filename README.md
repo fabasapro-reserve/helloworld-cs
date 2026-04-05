@@ -151,4 +151,5 @@ namespace HelloWorld
 
 ## 📄 Licença
 
-* Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](https://github.com/fabasapro-reserve/helloworld-cs/tree/main?tab=MIT-1-ov-file) para mais detalhes.
+* Copyright (c) Fábio Santos. All rights reserved.
+* Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
