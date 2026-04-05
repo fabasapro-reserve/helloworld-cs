@@ -25,40 +25,31 @@ Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura *
 
 ### 🏠 2. Tela inicial (Comece agora!)
 
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/visualstudio.png" alt="visualstudio" width="445" height="288">
-</p>
+[![getstarted](./visualstudio.png)](./visualstudio.png)
 
-Quando carregar, você verá:
-
-* **Create a new project (Criar um projeto)** → clique aqui
-* Open a project or solution (Abrir um projeto ou uma solução)
-* Open a folder (Abrir uma pasta)
-* Clone a repository (Clonar um repositório)
+* Quando carregar, você verá:
+    * **Create a new project (Criar um projeto)** → clique aqui
+    * Open a project or solution (Abrir um projeto ou uma solução)
+    * Open a folder (Abrir uma pasta)
+    * Clone a repository (Clonar um repositório)
 
 👉 Clique em **Create a new project (Criar um projeto)**
 
-## 📦 3. Escolher o tipo de projeto (Template)
+### 📦 3. Escolher o tipo de projeto (Template)
 
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/createnewproject.png" alt="createnewproject" width="445" height="288">
-</p>
-
-Na tela de templates:
+[![createnewproject](./createnewproject.png)](./createnewproject.png)
 
 * No filtro superior:
-    * Linguagem: **C# (C Sharp)**
-    * Plataforma: **Windows**
-    * Escolha: **Área de Trabalho**
-
-* Escolha:
+    * Linguagem (Idioma): **C# (C Sharp)**
+    * Plataforma (Plataforma): **Windows**
+    * Project types (Tipos de Projeto): **Área de Trabalho**
     * **Aplicativo do Windows Forms - Um modelo de projeto para criar um aplicativo WinForms (Windows Forms) do .NET**
 
 👉 Clique em **Próximo**
 
 💡 Esse template já cria a estrutura básica do programa automaticamente
 
-## 🏷️ 4. Configurar o projeto
+### 🏷️ 4. Configurar o projeto
 
 <p align="center">
     <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/settings.png" alt="settings" width="445" height="288">
