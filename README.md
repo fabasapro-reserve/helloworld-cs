@@ -1,4 +1,11 @@
-# 💻 Hello World
+## HELLO WORLD EM C# 2026
+
+<p align="center">
+    <p align="center">
+        <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/helloworld-banner.png" alt="helloworld-banner" width="750" height="450">
+    </p>
+</p>
+
 A seguir está um passo a passo completo, visual e didático desde a Splash Screen do Visual Studio até rodar um Hello World em C#. Vou usar o fluxo padrão da IDE (Visual Studio 2026 Community é praticamente igual ao 2015, 2017, 2019 e 2022).
 
 <p align="center">
