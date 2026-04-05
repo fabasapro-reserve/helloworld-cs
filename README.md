@@ -87,15 +87,13 @@ namespace HelloWorld
 ```
 
 ### 💻 6. Código Hello World
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/sample.png" alt="sample" width="450" height="320">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/out.png" alt="out" width="450" height="320">
-</p>
+
+[![sample](./sample.png)](./sample.png)
 
 ```cs
 // -----------------------------------------------------------------------
-// <copyright file="Form1.cs" company="@fabasapro">
-// Copyright (c) Fábio Santos. Todos os direitos reservados.
+// <copyright file="FileName.cs" company="CompanyOrBusinessName">
+// Copyright (c) YourFirstAndLastName. Todos os direitos reservados.
 // Licenciado sob a Licença MIT. Veja o arquivo LICENSE na raiz do projeto.
 // </copyright>
 // -----------------------------------------------------------------------
@@ -112,13 +110,16 @@ namespace HelloWorld
     }
 }
 ```
+
+[![out](./out.png)](./out.png)
+
 👉 Esse código escreve texto no console de depuração: Debug: Olá, mundo!.
 
 * Para rodar:
     * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
     * 🎉 Pronto! Seu primeiro programa em **C# (C-Sharp)** está funcionando
 
-## 🚀 Conclusão
+### 🚀 Conclusão
 
 * Você aprendeu:
     * ✔ **Abrir o Visual Studio**
