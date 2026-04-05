@@ -85,6 +85,20 @@ Na tela de templates:
     <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formcode.png" alt="formcode" width="450" height="320">
 </p>
 
+```cs
+namespace HelloWorld
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+        }
+    }
+}
+```
+
 * Após criar:
     * Pressione a tecla **F7** para codificar
     * Dessa forma, você poderá acessar/abrir o arquivo principal: **Form1.cs**
