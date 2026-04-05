@@ -1,26 +1,24 @@
-## 📖 Sobre o projeto
+### 📖 Sobre o projeto
 
 <p align="center"><img src="./helloworld-banner.png" alt="helloworld-banner.png" /></p>
     
 [![License: MIT](https://img.shields.io/github/license/microsoft/semantic-kernel)](./LICENSE)
-[![Languag](https://img.shields.io/badge/language-CS.NET-512BD4)](https://pypi.org/project/semantic-kernel)
-[![Structure](https://img.shields.io/badge/structure-.NET%2010.0-blueviolet)](https://pypi.org/project/semantic-kernel)
-[![Structure](https://img.shields.io/badge/Platform-Windows-0078D6)](https://pypi.org/project/semantic-kernel)
+[![Languag](https://img.shields.io/badge/language-CS.NET-512BD4)](https://visualstudio.microsoft.com/vs/community)
+[![Structure](https://img.shields.io/badge/structure-.NET%2010.0-blueviolet)](https://dotnet.microsoft.com/download/dotnet/10.0)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6)](https://www.microsoft.com/software-download)
 
 Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura **.NET 10.0**. Olá, mundo! 🚀
 
 ---
 
-## 🖥️ Pré-requisitos
+### 🖥️ Pré-requisitos
 
 - IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
 - Estrutura [SDK .NET 10.0](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
 
-## 🧭 1. Abrindo o Visual Studio (Splash Screen)
+### 🧭 1. Abrindo o Visual Studio (Splash Screen)
 
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/splashscreen.png" alt="splashscreen" width="340" height="210">
-</p>
+<p align="center"><img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/splashscreen.png" alt="splashscreen" width="340" height="210" /></p>
 
 * Ao abrir o [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community), aparece a [Splash Screen](https://learn.microsoft.com/en-us/samples/microsoft/windows-universal-samples/splashscreen) (tela de carregamento).
 * Ela carrega componentes da IDE em segundo plano antes da interface principal aparecer.
