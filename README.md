@@ -1,15 +1,18 @@
+## 📖 Sobre o projeto
+
 <p align="center">
     <p align="center">
         <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/helloworld-banner.png" alt="helloworld-banner" width="750" height="450">
     </p>
 </p>
 
-A seguir está um passo a passo completo, visual e didático desde a Splash Screen do Visual Studio até rodar um Hello World em C#. Vou usar o fluxo padrão da IDE (Visual Studio 2026 Community é praticamente igual ao 2015, 2017, 2019 e 2022).
+Este projeto foi criado para demonstrar a estrutura básica de um aplicativo Windows Forms em C#, incluindo boas práticas de cabeçalho e uso de Debug.WriteLine().
 
 <p align="center">
     <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
     <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
     <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
 </p>
 
 ## 🖥️ Pré-requisitos
@@ -113,7 +116,7 @@ namespace HelloWorld
     }
 }
 ```
-👉 Esse código escreve texto na **saída**.
+👉 Esse código escreve texto no console de depuração: Debug: Olá, mundo!.
 
 * Para rodar:
     * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
@@ -132,6 +135,6 @@ namespace HelloWorld
 
 **Fábio Santos** (featuring **Eve Reeve**)
 
-# 📄 Licença
+## 📄 Licença
 
-* Uso livre para fins educacionais.
+* Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](https://visualstudio.microsoft.com/pt-br/vs/community) para mais detalhes.
