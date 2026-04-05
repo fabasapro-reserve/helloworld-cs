@@ -51,10 +51,8 @@ Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura *
 
 ### 🏷️ 4. Configurar o projeto
 
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/settings.png" alt="settings" width="445" height="288">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/structure.png" alt="structure" width="445" height="288">
-</p>
+[![settings](./settings.png)](./settings.png)
+[![structure](./structure.png)](./structure.png)
 
 * Preencha:
     * Nome do projeto: **HelloWorld**
