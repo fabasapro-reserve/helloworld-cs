@@ -112,7 +112,7 @@ namespace HelloWorld
 
 * Para rodar:
     * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
-    * 🎉 Pronto! Seu primeiro programa em C# (C-Sharp) está funcionando
+    * 🎉 Pronto! Seu primeiro programa em **C# (C-Sharp)** está funcionando
 
 # 🚀 Conclusão
 
@@ -122,3 +122,11 @@ namespace HelloWorld
     * ✔ **Entender estrutura**
     * ✔ **Escrever código**
     * ✔ **Executar programa**
+
+# 👨‍💻 Autor
+
+**Fábio Santos**, featuring **Eve Reeve**
+
+# 📄 Licença
+
+- Uso livre para fins educacionais.
