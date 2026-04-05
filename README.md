@@ -34,12 +34,27 @@ Quando carregar, você verá:
 Na tela de templates:
 
 * No filtro superior:
-    * Language: **C# (C Sharp)**
-    * Platform: **Windows**
+    * Linguagem: **C# (C Sharp)**
+    * Plataforma: **Windows**
     * Escolha: **Área de Trabalho**
- 
-Aplicativo do Windows Forms - Um modelo de projeto para criar um aplicativo WinForms (Windows Forms) do .NET
 
-👉 Clique em **Next**
+* Escolha:
+    * **Aplicativo do Windows Forms - Um modelo de projeto para criar um aplicativo WinForms (Windows Forms) do .NET**
+
+👉 Clique em **Próximo**
 
 💡 Esse template já cria a estrutura básica do programa automaticamente
+
+# 🏷️ 4. Configurar o projeto
+
+<p align="center">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/settings.png" alt="settings" width="445" height="288">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/structure.png" alt="structure" width="445" height="288">
+</p>
+
+* Preencha:
+    * Nome do projeto: **HelloWorld**
+    * Nome da solução: **helloworld-cs**
+    * Framework: ex: .NET 8, .NET 9 ou **.NET 10**
+
+👉 Clique em **Próximo** e **Criar**
