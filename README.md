@@ -63,10 +63,14 @@ Este é o meu **primeiro projeto desenvolvido em C# (C-Sharp)** e na estrutura *
 
 ## 🧩 5. Estrutura do projeto
 
-<p align="center">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formdesigner.png" alt="formdesigner" width="450" height="320">
-    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formcode.png" alt="formcode" width="450" height="320">
-</p>
+[![formdesigner](./formdesigner.png)](./formdesigner.png)
+
+* Após criar:
+    * Pressione a tecla **F7** para codificar
+    * Dessa forma, você poderá acessar/abrir o arquivo principal: **Form1.cs**
+    * O editor de código exibirá o **código padrão**
+
+[![formcode](./formcode.png)](./formcode.png)
 
 ```cs
 namespace HelloWorld
@@ -82,12 +86,7 @@ namespace HelloWorld
 }
 ```
 
-* Após criar:
-    * Pressione a tecla **F7** para codificar
-    * Dessa forma, você poderá acessar/abrir o arquivo principal: **Form1.cs**
-    * O editor de código exibirá o **código padrão**
-
-## 💻 6. Código Hello World
+### 💻 6. Código Hello World
 <p align="center">
     <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/sample.png" alt="sample" width="450" height="320">
     <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/out.png" alt="out" width="450" height="320">
