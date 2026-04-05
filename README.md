@@ -7,29 +7,29 @@
 A seguir está um passo a passo completo, visual e didático desde a Splash Screen do Visual Studio até rodar um Hello World em C#. Vou usar o fluxo padrão da IDE (Visual Studio 2026 Community é praticamente igual ao 2015, 2017, 2019 e 2022).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
 </p>
 
-# 🖥️ Pré-requisitos
+## 🖥️ Pré-requisitos
 
 - IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
 - Estrutura [SDK .NET 10.0 (Suporte de Longo Prazo)](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
 
-# 🧭 1. Abrindo o Visual Studio (Splash Screen)
+## 🧭 1. Abrindo o Visual Studio (Splash Screen)
 
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/splashscreen.png" alt="splashscreen" width="340" height="210">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/splashscreen.png" alt="splashscreen" width="340" height="210">
 </p>
 
 * Ao abrir o [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community), aparece a [Splash Screen](https://learn.microsoft.com/en-us/samples/microsoft/windows-universal-samples/splashscreen) (tela de carregamento).
 * Ela carrega componentes da IDE em segundo plano antes da interface principal aparecer.
 
-# 🏠 2. Tela inicial (Comece agora!)
+## 🏠 2. Tela inicial (Comece agora!)
 
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/visualstudio.png" alt="visualstudio" width="445" height="288">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/visualstudio.png" alt="visualstudio" width="445" height="288">
 </p>
 
 Quando carregar, você verá:
@@ -41,10 +41,10 @@ Quando carregar, você verá:
 
 👉 Clique em **Create a new project (Criar um projeto)**
 
-# 📦 3. Escolher o tipo de projeto (Template)
+## 📦 3. Escolher o tipo de projeto (Template)
 
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/createnewproject.png" alt="createnewproject" width="445" height="288">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/createnewproject.png" alt="createnewproject" width="445" height="288">
 </p>
 
 Na tela de templates:
@@ -61,11 +61,11 @@ Na tela de templates:
 
 💡 Esse template já cria a estrutura básica do programa automaticamente
 
-# 🏷️ 4. Configurar o projeto
+## 🏷️ 4. Configurar o projeto
 
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/settings.png" alt="settings" width="445" height="288">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/structure.png" alt="structure" width="445" height="288">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/settings.png" alt="settings" width="445" height="288">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/structure.png" alt="structure" width="445" height="288">
 </p>
 
 * Preencha:
@@ -75,11 +75,11 @@ Na tela de templates:
 
 👉 Clique em **Próximo** e **Criar**
 
-# 🧩 5. Estrutura do projeto
+## 🧩 5. Estrutura do projeto
 
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formdesigner.png" alt="formdesigner" width="450" height="320">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formcode.png" alt="formcode" width="450" height="320">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formdesigner.png" alt="formdesigner" width="450" height="320">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formcode.png" alt="formcode" width="450" height="320">
 </p>
 
 * Após criar:
@@ -87,10 +87,10 @@ Na tela de templates:
     * Dessa forma, você poderá acessar/abrir o arquivo principal: **Form1.cs**
     * O editor de código exibirá o **código padrão**
 
-# 💻 6. Código Hello World
+## 💻 6. Código Hello World
 <p align="center">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/sample.png" alt="sample" width="450" height="320">
-  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/out.png" alt="out" width="450" height="320">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/sample.png" alt="sample" width="450" height="320">
+    <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/out.png" alt="out" width="450" height="320">
 </p>
 
 ```cs
@@ -119,7 +119,7 @@ namespace HelloWorld
     * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
     * 🎉 Pronto! Seu primeiro programa em **C# (C-Sharp)** está funcionando
 
-# 🚀 Conclusão
+## 🚀 Conclusão
 
 * Você aprendeu:
     * ✔ **Abrir o Visual Studio**
@@ -128,10 +128,10 @@ namespace HelloWorld
     * ✔ **Escrever código**
     * ✔ **Executar programa**
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
-**Fábio Santos**, featuring **Eve Reeve**
+**Fábio Santos** (featuring **Eve Reeve**)
 
 # 📄 Licença
 
-- Uso livre para fins educacionais.
+* Uso livre para fins educacionais.
