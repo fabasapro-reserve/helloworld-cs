@@ -10,9 +10,17 @@ A seguir está um passo a passo completo, visual e didático desde a Splash Scre
 * Ao abrir o [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community), aparece a [Splash Screen](https://learn.microsoft.com/en-us/samples/microsoft/windows-universal-samples/splashscreen) (tela de carregamento).
 * Ela carrega componentes da IDE em segundo plano antes da interface principal aparecer.
 
-# 🏠 2. Tela inicial (Start Window)
+# 🏠 2. Tela inicial (Comece agora!)
 
 <p align="center">
   <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/visualstudio.png" alt="visualstudio" width="445" height="288">
 </p>
 
+Quando carregar, você verá:
+
+* **Create a new project (Criar um projeto)** → clique aqui
+* Open project (Abrir um projeto ou uma solução)
+* Open a folder (Abrir uma pasta)
+* Cloning a repository (Clonar um repositório)
+
+👉 Clique em **Create a new project (Criar um projeto)**
