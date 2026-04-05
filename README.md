@@ -19,8 +19,26 @@ A seguir está um passo a passo completo, visual e didático desde a Splash Scre
 Quando carregar, você verá:
 
 * **Create a new project (Criar um projeto)** → clique aqui
-* Open project (Abrir um projeto ou uma solução)
+* Open a project or solution (Abrir um projeto ou uma solução)
 * Open a folder (Abrir uma pasta)
-* Cloning a repository (Clonar um repositório)
+* Clone a repository (Clonar um repositório)
 
 👉 Clique em **Create a new project (Criar um projeto)**
+
+# 📦 3. Escolher o tipo de projeto (Template)
+
+<p align="center">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/createnewproject.png" alt="createnewproject" width="445" height="288">
+</p>
+
+Na tela de templates:
+
+No filtro superior:
+Language: C#
+Platform: Windows
+Escolha: Área de Trabalho
+Console App (.NET)
+
+👉 Clique em Next
+
+💡 Esse template já cria a estrutura básica do programa automaticamente
