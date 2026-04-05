@@ -111,13 +111,15 @@ namespace HelloWorld
 }
 ```
 
+* Para rodar:
+    * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
+    * 🎉 Pronto! Seu primeiro programa em **C# (C-Sharp)** está funcionando
+
 [![out](./out.png)](./out.png)
 
 👉 Esse código escreve texto no console de depuração: Debug: Olá, mundo!.
 
-* Para rodar:
-    * Clique no botão verde **▶️ HelloWorld** ou pressione **F5**
-    * 🎉 Pronto! Seu primeiro programa em **C# (C-Sharp)** está funcionando
+---
 
 ### 🚀 Conclusão
 
@@ -128,13 +130,11 @@ namespace HelloWorld
     * ✔ **Escrever código**
     * ✔ **Executar programa**
 
----
-
-## 👨‍💻 Autor
+### 👨‍💻 Autor
 
 **Fábio Santos** (featuring **Eve Reeve**)
 
-## 📄 Licença
+### 📄 Licença
 
 * Copyright (c) Fábio Santos. All rights reserved.
 * Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
