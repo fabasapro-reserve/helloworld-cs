@@ -3,12 +3,6 @@
 Este projeto foi criado para demonstrar a estrutura básica de um aplicativo **Windows Forms** em **C#**, incluindo boas práticas de cabeçalho e uso de **Debug.WriteLine()**.
 
 <p align="center">
-    <p align="center">
-        <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/helloworld-banner.png" alt="helloworld-banner" width="750" height="450">
-    </p>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/Structure-.NET%2010.0-blueviolet?style=for-the-badge">
     <img src="https://img.shields.io/badge/Language-CS.NET-512BD4?style=for-the-badge">
     <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge">
@@ -18,7 +12,7 @@ Este projeto foi criado para demonstrar a estrutura básica de um aplicativo **W
 ## 🖥️ Pré-requisitos
 
 - IDE [Microsoft Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community) (2017, 2019, 2022, **2026** ou superior)
-- Estrutura [SDK .NET 10.0 (Suporte de Longo Prazo)](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
+- Estrutura [SDK .NET 10.0](https://dotnet.microsoft.com/pt-br/download/dotnet/10.0) (.NET 8, .NET 9, **.NET 10** ou superior)
 
 ## 🧭 1. Abrindo o Visual Studio (Splash Screen)
 
