@@ -1,5 +1,11 @@
 ## 📖 Sobre o projeto
 
+<p align="center">
+    <picture>
+        <img src="./helloworld-banner.png" alt="helloworld-banner.png" />
+     </picture>
+</p>
+
 Este projeto foi criado para demonstrar a estrutura básica de um aplicativo **Windows Forms** em **C#**, incluindo boas práticas de cabeçalho e uso de **Debug.WriteLine()**.
 
 <p align="center">
