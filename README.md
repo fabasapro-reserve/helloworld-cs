@@ -58,3 +58,44 @@ Na tela de templates:
     * Framework: ex: .NET 8, .NET 9 ou **.NET 10**
 
 👉 Clique em **Próximo** e **Criar**
+
+# 🧩 5. Estrutura do projeto
+
+<p align="center">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formdesigner.png" alt="formdesigner" width="450" height="320">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/formcode.png" alt="formcode" width="450" height="320">
+</p>
+
+* Após criar:
+    * Pressione a tecla **F7** para codificar
+    * Dessa forma, você poderá acessar/abrir o arquivo principal: **Form1.cs**
+    * O editor de código exibirá o **código padrão**
+
+# 💻 6. Código Hello World
+<p align="center">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/sample.png" alt="sample" width="450" height="320">
+  <img src="https://github.com/fabasapro-reserve/helloworld-cs/blob/main/out.png" alt="out" width="450" height="320">
+</p>
+
+```cs
+// -----------------------------------------------------------------------
+// <copyright file="Form1.cs" company="@fabasapro">
+// Copyright (c) Fábio Santos. Todos os direitos reservados.
+// Licenciado sob a Licença MIT. Veja o arquivo LICENSE na raiz do projeto.
+// </copyright>
+// -----------------------------------------------------------------------
+using System.Diagnostics;
+namespace HelloWorld
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            Debug.WriteLine("Olá, mundo!");
+        }
+    }
+}
+```
+👉 Esse código escreve texto na **saída**.
+
